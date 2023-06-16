@@ -1,0 +1,17 @@
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\bin\Debug\net7.0\CashFlow.Infrastructure.deps.json
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\bin\Debug\net7.0\CashFlow.Infrastructure.runtimeconfig.json
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\bin\Debug\net7.0\CashFlow.Infrastructure.dll
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\bin\Debug\net7.0\CashFlow.Infrastructure.pdb
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\bin\Debug\net7.0\CashFlow.Domain.dll
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\bin\Debug\net7.0\CashFlow.Domain.pdb
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\obj\Debug\net7.0\CashFlow.Infrastructure.csproj.AssemblyReference.cache
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\obj\Debug\net7.0\CashFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\obj\Debug\net7.0\CashFlow.Infrastructure.AssemblyInfoInputs.cache
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\obj\Debug\net7.0\CashFlow.Infrastructure.AssemblyInfo.cs
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\obj\Debug\net7.0\CashFlow.Infrastructure.csproj.CoreCompileInputs.cache
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\obj\Debug\net7.0\CashFlow.Infrastructure.csproj.CopyComplete
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\obj\Debug\net7.0\CashFlow.Infrastructure.dll
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\obj\Debug\net7.0\refint\CashFlow.Infrastructure.dll
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\obj\Debug\net7.0\CashFlow.Infrastructure.pdb
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\obj\Debug\net7.0\CashFlow.Infrastructure.genruntimeconfig.cache
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Infrastructure\obj\Debug\net7.0\ref\CashFlow.Infrastructure.dll

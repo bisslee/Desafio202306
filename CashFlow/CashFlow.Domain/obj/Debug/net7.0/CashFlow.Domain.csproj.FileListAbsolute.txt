@@ -1,0 +1,12 @@
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Domain\bin\Debug\net7.0\CashFlow.Domain.deps.json
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Domain\bin\Debug\net7.0\CashFlow.Domain.dll
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Domain\bin\Debug\net7.0\CashFlow.Domain.pdb
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Domain\obj\Debug\net7.0\CashFlow.Domain.csproj.AssemblyReference.cache
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Domain\obj\Debug\net7.0\CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Domain\obj\Debug\net7.0\CashFlow.Domain.AssemblyInfoInputs.cache
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Domain\obj\Debug\net7.0\CashFlow.Domain.AssemblyInfo.cs
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Domain\obj\Debug\net7.0\CashFlow.Domain.csproj.CoreCompileInputs.cache
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Domain\obj\Debug\net7.0\CashFlow.Domain.dll
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Domain\obj\Debug\net7.0\refint\CashFlow.Domain.dll
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Domain\obj\Debug\net7.0\CashFlow.Domain.pdb
+P:\proj\_search-job\Deasfio carrefour\CashFlow\CashFlow.Domain\obj\Debug\net7.0\ref\CashFlow.Domain.dll
